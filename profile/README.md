@@ -22,4 +22,4 @@ pip install obol-sdk
 
 ---
 
-<sub>Gray Owl Research, LLC · New Mexico · [grayowlresearch.com](https://grayowlresearch.com)</sub>
+<sub>Gray Owl Research, LLC · [grayowlresearch.com](https://grayowlresearch.com)</sub>
